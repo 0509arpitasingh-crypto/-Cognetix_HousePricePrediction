@@ -62,13 +62,6 @@ house-price-prediction/
 
 The trained model is able to predict house prices based on the given input features and demonstrates the complete process of building a regression model from data preprocessing to evaluation.
 
-## 🌱 Future Improvements
-
-* Try advanced regression models such as Random Forest or XGBoost.
-* Perform hyperparameter tuning to improve accuracy.
-* Deploy the model using Streamlit or Flask.
-* Add a simple web interface for real-time predictions.
-
 ---
 
 *This project was completed as part of a Machine Learning internship to strengthen my understanding of data preprocessing, regression models, and the end-to-end machine learning workflow.*
