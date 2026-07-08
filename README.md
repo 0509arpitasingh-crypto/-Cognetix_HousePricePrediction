@@ -23,17 +23,6 @@ The project covers the complete machine learning workflow, including data prepro
 * Scikit-learn
 * Jupyter Notebook
 
-## 📂 Project Structure
-
-```text
-house-price-prediction/
-│
-├── data/
-├── task1_housepriceprediction.ipynb
-├── README.md
-└── requirements.txt
-```
-
 ## 📊 Workflow
 
 1. Import and explore the dataset.
