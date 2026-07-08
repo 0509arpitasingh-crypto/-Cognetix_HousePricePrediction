@@ -44,6 +44,19 @@ house-price-prediction/
 6. Evaluate the model using appropriate metrics.
 7. Predict house prices on unseen data.
 
+## 📊 Output
+
+### Correlation Heatmap
+
+![Correlation Heatmap]("C:\Users\Arpita Singh\OneDrive\Pictures\ML_Task1_L1 Images\Correlation Heatmap.png")
+
+### Evaluation Table
+![Evaluation Table]("C:\Users\Arpita Singh\OneDrive\Pictures\ML_Task1_L1 Images\Evaluation Table.png")
+
+### Scatter Plot
+
+![Scatter Plot]("C:\Users\Arpita Singh\OneDrive\Pictures\ML_Task1_L1 Images\Scatter Plot.png")
+
 ## 📈 Results
 
 The trained model is able to predict house prices based on the given input features and demonstrates the complete process of building a regression model from data preprocessing to evaluation.
