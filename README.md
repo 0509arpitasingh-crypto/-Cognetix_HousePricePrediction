@@ -48,14 +48,15 @@ house-price-prediction/
 
 ### Correlation Heatmap
 
-![Correlation Heatmap]("C:\Users\Arpita Singh\OneDrive\Pictures\ML_Task1_L1 Images\Correlation Heatmap.png")
+![Correlation Heatmap](Images/correlation_heatmap.png)
 
 ### Evaluation Table
-![Evaluation Table]("C:\Users\Arpita Singh\OneDrive\Pictures\ML_Task1_L1 Images\Evaluation Table.png")
+
+![Evaluation Table](Images/Evaluation_Table.png")
 
 ### Scatter Plot
 
-![Scatter Plot]("C:\Users\Arpita Singh\OneDrive\Pictures\ML_Task1_L1 Images\Scatter Plot.png")
+![Scatter Plot]("Images/Scatter_Plot.png")
 
 ## 📈 Results
 
