@@ -48,11 +48,11 @@ house-price-prediction/
 
 ### Correlation Heatmap
 
-![Correlation Heatmap](Images/correlation_heatmap.png)
+![Correlation Heatmap]("Images/correlation_heatmap.png")
 
 ### Evaluation Table
 
-![Evaluation Table](Images/Evaluation_Table.png")
+![Evaluation Table]("Images/Evaluation_Table.png")
 
 ### Scatter Plot
 
